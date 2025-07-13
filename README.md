@@ -3,4 +3,4 @@
 - 🌱 I’m currently helping startups and VCs
 - 💞️ I’m looking to support goodwill humans
 - 📫 How to reach me: ping me here on GitHub -> https://github.com/Paulmediabianchi/Paolo-Raineri/blob/main/README.md
-
+- Don't reach me if you don't know why 42 is a magic legendary number
